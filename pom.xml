@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sefanebi</groupId>
-    <artifactId>advanced-java</artifactId>
+    <artifactId>java-17-advanced-playbook</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
